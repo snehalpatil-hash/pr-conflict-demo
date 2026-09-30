@@ -1,2 +1,3 @@
 Welcome to the test Automation Project
 Version: 2.0 (updated in feature-branch)
+Version: 3.0 (updated in main)
